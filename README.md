@@ -1,6 +1,6 @@
 # Artisan Wisdoms
 
-An open knowledgebase and quick reference for makers, artisans, and DIYers
+An open knowledgebase and quick reference for makers, artisans, and DIYers. [Visit us](https://artisan.atelierabbey.org)
 
 ## issues
 
