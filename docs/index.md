@@ -4,12 +4,8 @@ This project is a work in progress. We are currently working to make a concise w
 
 ## Website structure
 
-- material & practices
-	- cameras
-		- lense types
-		- camera movements
-		- processing (fstop, iso, etc.)
-		- frame rate
+- material & medium
+
 	- wood
 		- types of wood
 		- anatomy
@@ -27,11 +23,13 @@ This project is a work in progress. We are currently working to make a concise w
 		- recycling symbols
 	- rubber / silicone
 	- foam
-	- audio
 	- lights
 	- electricity
 		- electrical symbols
 		- resistance, amperage, voltage, etc.
+	- Design
+		- numpad hidden menu
+- tools & hardware
 	- blades
 		- kerf
 		- anatomy of a knife
@@ -45,9 +43,12 @@ This project is a work in progress. We are currently working to make a concise w
 				- cross cut
 				- bevel
 				- etc
-	- Design
-		- numpad hidden menu
-- tools & hardware
+	- cameras
+		- lense types
+		- camera movements
+		- processing (fstop, iso, etc.)
+		- frame rate
+	- Audio
 	- CNC
 		- 3d printer
 		- laser cutter
