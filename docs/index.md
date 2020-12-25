@@ -45,10 +45,14 @@ This project is a work in progress. We are currently working to make a concise w
 				- cross cut
 				- bevel
 				- etc
-	- CNC & Gcode
 	- Design
 		- numpad hidden menu
 - tools & hardware
+	- CNC
+		- 3d printer
+		- laser cutter
+		- mill
+		- lathe
 	- tablesaw
 		- calibration
 		- dangers / warnings / safety
